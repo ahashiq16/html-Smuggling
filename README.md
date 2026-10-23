@@ -13,7 +13,7 @@ defense evasion mechanisms directly from your terminal.
 
 Author & Developer:
 -------------------
-Created with ❤️ by Alamin Ashiq
+Created by ❤️  Alamin Ashiq (bangladesh)
 
 
 Prerequisites:
